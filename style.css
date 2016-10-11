@@ -1,0 +1,49 @@
+body{
+	background-color:#34495e;
+}
+.content{
+	margin-top:10px;
+}
+.row, .row a{
+	margin: 0 auto;
+	text-align:center;
+	color:white;
+}
+.row a{
+
+	padding: 19px 25px 19px 19px;
+	background-color: #3498db;
+	border-bottom: 5px solid #2980b9;
+
+}
+.row{
+	padding-bottom: 50px;
+	margin-bottom: 20px;
+	background-color: rgb(255,255,255);
+}
+.col-md-4{
+	margin-top: 50px;
+}
+.container{
+	padding: -20px;
+	background-color: rgba(255,255,255,0.2);
+}
+.container .jumbotron{
+	border-radius:0px;
+	text-align: center;
+}
+
+
+.berita{
+	background-color: #fff; 	
+	margin-top:30px;
+	padding: 20px;
+}
+.berita .date{
+	margin-top: -18px;
+}
+footer{
+	text-align: center;
+	color:white;
+	padding: 10px;
+}
